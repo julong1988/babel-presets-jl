@@ -1,12 +1,13 @@
-export const presets = [
-  "minify",
-  "@babel/preset-env",
-  "@babel/preset-react"
-]
+import { declare } from '@babel/helper-plugin-utils';
 
-export const plugins = [];
-
-export default {
-  presets,
-  plugins,
-}
+export default declare(() => {
+  return {
+    presets: [
+      "minify",
+      "@babel/preset-env",
+      "@babel/preset-react",
+      "@babel/preset-typescript"
+    ],
+    plugins: [],
+  }
+});
