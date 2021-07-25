@@ -1,5 +1,5 @@
 {
-  "name": "babel-presets-jl",
+  "name": "@julong/babel-presets-jl",
   "version": "1.0.0",
   "description": "babel presets",
   "main": "./lib/index.js",
