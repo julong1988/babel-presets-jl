@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/julong1988/babel-presets-jl/compare/v1.0.0...v1.0.1) (2021-07-25)
+
+
+### Bug Fixes
+
+* **rename:** 패키지 이름 변경 ([093049d](https://github.com/julong1988/babel-presets-jl/commit/093049d5953cd973e545521afa371eb8b8a001c1))
+
 # 1.0.0 (2021-07-25)
 
 
