@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/julong1988/babel-presets-jl/compare/v1.0.2...v1.0.3) (2021-07-25)
+
+
+### Bug Fixes
+
+* **common:** declare 추가 ([defdb38](https://github.com/julong1988/babel-presets-jl/commit/defdb38e607e33ac26764c7d1ce3a214f71ac5b4))
+
 ## [1.0.2](https://github.com/julong1988/babel-presets-jl/compare/v1.0.1...v1.0.2) (2021-07-25)
 
 
