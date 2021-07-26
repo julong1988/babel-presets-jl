@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/julong1988/babel-presets-jl/compare/v1.0.3...v1.0.4) (2021-07-26)
+
+
+### Bug Fixes
+
+* **README:** 설명문구 추가 ([3647ac4](https://github.com/julong1988/babel-presets-jl/commit/3647ac4e3664e704975af551bfb7262297943907))
+
 ## [1.0.3](https://github.com/julong1988/babel-presets-jl/compare/v1.0.2...v1.0.3) (2021-07-25)
 
 
