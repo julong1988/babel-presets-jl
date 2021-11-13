@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/jl917/babel-presets-jl/compare/v1.0.4...v1.0.5) (2021-11-13)
+
+
+### Bug Fixes
+
+* julong1988 => jl917 ([85b517e](https://github.com/jl917/babel-presets-jl/commit/85b517e96bba36bdfac117cf8cda2da152a3ea16))
+
 ## [1.0.4](https://github.com/jl917/babel-presets-jl/compare/v1.0.3...v1.0.4) (2021-07-26)
 
 
