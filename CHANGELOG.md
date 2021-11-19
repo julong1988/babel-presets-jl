@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/jl917/babel-presets-jl/compare/v1.0.5...v1.0.6) (2021-11-19)
+
+
+### Bug Fixes
+
+* package 라이센스 수정 ISC => MIT ([2f5c7b5](https://github.com/jl917/babel-presets-jl/commit/2f5c7b55292be1662abefd2bb5bd908e1400f4e3))
+
 ## [1.0.5](https://github.com/jl917/babel-presets-jl/compare/v1.0.4...v1.0.5) (2021-11-13)
 
 
